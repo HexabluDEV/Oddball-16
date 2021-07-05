@@ -2,14 +2,17 @@
 # Oddball-16
 A silly and whimsical 16x16 Tileset for Dwarf Fortress
 
-![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/861648225605386240/Oddball_16x16.png) 
+16x16: ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/861648225605386240/Oddball_16x16.png)
+32x32: ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/861748420820598804/Oddball_32x32.png)
 
 # About
 a silly and whimsical 16x16 tileset, I created this tileset completely from scratch to practice pixelart with a 7-color greyscale ramp.
 
 the font is modeled off of my handwriting, *yeah its lovely i know* 😔
 
-Also, at the time of creating this, I haven't really figured out how to play the game fully, I thought it might bring an interesting perspective on the artstyle, so maybe there will be some things here that havent been done before!
+I always wanted to figure out how to play that dwarf fortress game, and I also always wanted to make a rougelike tileset ...The rest is history!
+
+A couple of the sprites are repurposed from my game "Fatem.019" 
 
 These tilesets are [licensed under a Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)
 So feel free to use and edit them however you like, but please make sure to credit **HexaBlu** somewhere if you do!
