@@ -1,7 +1,8 @@
 ![Banner](https://cdn.discordapp.com/attachments/563101440248119332/860229952875003915/banner.png)
 # Oddball-16
-A silly and whimsical 16x16 Tileset for Dwarf Fortress
+A silly and whimsical 16x16 Tileset for Dwarf Fortress focused on unique graphics.
 
+**[ → Link to the fourm page](http://www.bay12forums.com/smf/index.php?topic=178707.0)**
 #
 16x16:
 
