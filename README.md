@@ -3,6 +3,9 @@
 A silly and whimsical 16x16 Tileset for Dwarf Fortress focused on unique graphics.
 
 **[ → Link to the fourm page](http://www.bay12forums.com/smf/index.php?topic=178707.0)**
+
+**[ → Link to the Tileset Repository Page](http://dwarffortresswiki.org/index.php/Tileset_repository#Oddball-16)**
+
 #
 16x16:
 
