@@ -9,11 +9,11 @@ A silly and whimsical 16x16 Tileset for Dwarf Fortress focused on unique graphic
 #
 16x16:
 
-![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/877003398950563900/Oddball_16x16.png)
+![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/880908712301187112/Oddball_16x16.png)
 #
 32x32:
 
-![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/877003401525858374/Oddball_32x32.png)
+![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/880908711055478815/Oddball_32x32.png)
 #
 
 # About
@@ -48,6 +48,8 @@ FULLFONT: Oddball_16x16
 
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/860218753103036426/Screenshot_16.png) 
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/861647864593514526/Screenshot_4.png)
-![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/860251091680493578/Screenshot_30.png)
-![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/861647559368769547/GIF.gif) 
+![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/880906666617491486/Screenshot_48.png)
+![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/880906675572326460/GIF.gif) 
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/860181106523111424/Screenshot_20.png)
+![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/880907338196869180/Screenshot_56.png)
+
