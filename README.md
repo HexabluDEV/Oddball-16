@@ -9,11 +9,11 @@ A silly and whimsical 16x16 Tileset for Dwarf Fortress focused on unique graphic
 #
 16x16:
 
-![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/905271185804259398/Oddball_16x16.png)
+![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/1018641807770407002/Oddball_16x16.png)
 #
 32x32:
 
-![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/905271183375745034/Oddball_32x32.png)
+![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/1018641808047222814/Oddball_32x32.png)
 #
 
 # About
