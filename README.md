@@ -46,7 +46,7 @@ FULLFONT: Oddball_16x16
 
 # Screenshots
 
-Most of these are out of date.
+Most of these screenshots are from earlier outdated versions.
 
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/860218753103036426/Screenshot_16.png) 
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/861647864593514526/Screenshot_4.png)
@@ -58,9 +58,15 @@ Most of these are out of date.
 # Version History
 
 V1 - published
+
 V2 - changed gem to be brighter, swapped out fire back to 1/2 symbol incase its used in a later update.
+
 V3 - Minor tweaks, Main Focus was fixing barrels and Channel designation so they are no longer inverted.
+
 V4 - MEGA UPDATE!!! added tree branches/dirt path multipurpose sprite, added floor tiles, made lots of graphical changes to make it easier to understand what certain tiles are.
+
 V5 - small update, changed "=" tile to this cool vine pattern i made, it looks interesting for stockpiles and certain types of stone. also changed the "Φ" into a pot.
+
 V6 - dwarves now have beards, stockpiles and mechanisms have been given an overhaul, small tweaks to elf and clay pot
+
 V7 - updated trees, boulders and foliage to match the new trees from my game FATEM.019, other minor changes and tweaks.
