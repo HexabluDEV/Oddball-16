@@ -9,11 +9,11 @@ A silly and whimsical 16x16 Tileset for Dwarf Fortress focused on unique graphic
 #
 16x16:
 
-![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/1018641807770407002/Oddball_16x16.png)
+![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/1122234556506964059/Oddball_16x16.png)
 #
 32x32:
 
-![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/1018641808047222814/Oddball_32x32.png)
+![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/1122234556720881704/Oddball_32x32.png)
 #
 
 # About
@@ -46,6 +46,8 @@ FULLFONT: Oddball_16x16
 
 # Screenshots
 
+Most of these are out of date.
+
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/860218753103036426/Screenshot_16.png) 
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/861647864593514526/Screenshot_4.png)
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/880906666617491486/Screenshot_48.png)
@@ -53,3 +55,12 @@ FULLFONT: Oddball_16x16
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/860181106523111424/Screenshot_20.png)
 ![The Tileset](https://cdn.discordapp.com/attachments/563101440248119332/880907338196869180/Screenshot_56.png)
 
+# Version History
+
+V1 - published
+V2 - changed gem to be brighter, swapped out fire back to 1/2 symbol incase its used in a later update.
+V3 - Minor tweaks, Main Focus was fixing barrels and Channel designation so they are no longer inverted.
+V4 - MEGA UPDATE!!! added tree branches/dirt path multipurpose sprite, added floor tiles, made lots of graphical changes to make it easier to understand what certain tiles are.
+V5 - small update, changed "=" tile to this cool vine pattern i made, it looks interesting for stockpiles and certain types of stone. also changed the "Φ" into a pot.
+V6 - dwarves now have beards, stockpiles and mechanisms have been given an overhaul, small tweaks to elf and clay pot
+V7 - updated trees, boulders and foliage to match the new trees from my game FATEM.019, other minor changes and tweaks.
